@@ -1,0 +1,51 @@
+{
+  "name": "ses",
+  "description": "A simple CLI for check health status on external services.",
+  "version": "0.0.1",
+  "author": "Carlos Lopez B @clouby",
+  "bin": {
+    "ses": "./bin/run"
+  },
+  "bugs": "https://github.com/clouby/ses/issues",
+  "dependencies": {
+    "@oclif/command": "^1",
+    "@oclif/config": "^1",
+    "@oclif/plugin-help": "^3",
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "figures": "^3.2.0",
+    "hermit": "^0.2.2",
+    "node-fetch": "^2.6.1",
+    "ora": "^5.1.0",
+    "rss-parser": "^3.9.0",
+    "terminal-link": "^2.1.1"
+  },
+  "devDependencies": {
+    "@oclif/dev-cli": "^1",
+    "eslint": "^5.13",
+    "eslint-config-oclif": "^3.1"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "/bin",
+    "/src"
+  ],
+  "homepage": "https://github.com/clouby/ses",
+  "keywords": [
+    "oclif"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "oclif": {
+    "bin": "ses"
+  },
+  "repository": "clouby/ses",
+  "scripts": {
+    "posttest": "eslint .",
+    "prepack": "oclif-dev readme",
+    "test": "echo NO TESTS",
+    "version": "oclif-dev readme && git add README.md"
+  }
+}
