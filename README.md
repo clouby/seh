@@ -8,6 +8,8 @@ A simple CLI for check health status on external services.
 [![Downloads/week](https://img.shields.io/npm/dw/seh.svg)](https://npmjs.org/package/seh)
 [![License](https://img.shields.io/npm/l/ses.svg)](https://github.com/clouby/seh/blob/master/package.json)
 
+![](./demo/term.gif)
+
 <!-- toc -->
 * [Usage](#usage)
 * [Commands](#commands)
@@ -19,7 +21,7 @@ $ npm install -g seh
 $ seh COMMAND
 running command...
 $ seh (-v|--version|version)
-seh/0.0.2 linux-x64 node-v12.18.2
+seh/0.0.4 linux-x64 node-v12.18.2
 $ seh --help [COMMAND]
 USAGE
   $ seh COMMAND
