@@ -1,5 +1,5 @@
 {
-  "name": "ses",
+  "name": "@cloubyy/ses",
   "description": "A simple CLI for check health status on external services.",
   "version": "0.0.1",
   "author": "Carlos Lopez B @clouby",
