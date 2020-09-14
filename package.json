@@ -1,7 +1,7 @@
 {
   "name": "seh",
   "description": "A simple CLI for check health status on external services.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Carlos Lopez B @clouby",
   "bin": {
     "seh": "./bin/run"

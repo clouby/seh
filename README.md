@@ -8,6 +8,8 @@ A simple CLI for check health status on external services.
 [![Downloads/week](https://img.shields.io/npm/dw/seh.svg)](https://npmjs.org/package/seh)
 [![License](https://img.shields.io/npm/l/ses.svg)](https://github.com/clouby/seh/blob/master/package.json)
 
+![](./demo/show.gif)
+
 <!-- toc -->
 * [Usage](#usage)
 * [Commands](#commands)
