@@ -1,10 +1,10 @@
 {
-  "name": "@cloubyy/ses",
+  "name": "hses",
   "description": "A simple CLI for check health status on external services.",
   "version": "0.0.1",
   "author": "Carlos Lopez B @clouby",
   "bin": {
-    "ses": "./bin/run"
+    "hses": "./bin/run"
   },
   "bugs": "https://github.com/clouby/ses/issues",
   "dependencies": {

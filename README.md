@@ -15,11 +15,11 @@ A simple CLI for check health status on external services.
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g ses
+$ npm install -g hses
 $ ses COMMAND
 running command...
 $ ses (-v|--version|version)
-ses/0.0.1 linux-x64 node-v12.18.2
+hses/0.0.1 linux-x64 node-v12.18.2
 $ ses --help [COMMAND]
 USAGE
   $ ses COMMAND
