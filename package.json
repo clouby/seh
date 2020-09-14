@@ -1,12 +1,12 @@
 {
-  "name": "hses",
+  "name": "seh",
   "description": "A simple CLI for check health status on external services.",
   "version": "0.0.1",
   "author": "Carlos Lopez B @clouby",
   "bin": {
-    "hses": "./bin/run"
+    "seh": "./bin/run"
   },
-  "bugs": "https://github.com/clouby/ses/issues",
+  "bugs": "https://github.com/clouby/seh/issues",
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
@@ -32,16 +32,16 @@
     "/bin",
     "/src"
   ],
-  "homepage": "https://github.com/clouby/ses",
+  "homepage": "https://github.com/clouby/seh",
   "keywords": [
     "oclif"
   ],
   "license": "MIT",
   "main": "src/index.js",
   "oclif": {
-    "bin": "ses"
+    "bin": "seh"
   },
-  "repository": "clouby/ses",
+  "repository": "clouby/seh",
   "scripts": {
     "posttest": "eslint .",
     "prepack": "oclif-dev readme",

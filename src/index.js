@@ -99,7 +99,7 @@ class SesCommand extends Command {
 
 SesCommand.description = `Describe the command here
 ...
-Welcome to ${chalk.bold('ses')}!
+Welcome to ${chalk.bold('seh')}!
 
 It's a simple CLI for check health status about external services. 🙌
 
