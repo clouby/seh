@@ -1,12 +1,12 @@
-ses
+hses
 ===
 
 A simple CLI for check health status on external services.
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/ses.svg)](https://npmjs.org/package/ses)
-[![Downloads/week](https://img.shields.io/npm/dw/ses.svg)](https://npmjs.org/package/ses)
-[![License](https://img.shields.io/npm/l/ses.svg)](https://github.com/clouby/ses/blob/master/package.json)
+[![Version](https://img.shields.io/npm/v/hses.svg)](https://npmjs.org/package/hses)
+[![Downloads/week](https://img.shields.io/npm/dw/hses.svg)](https://npmjs.org/package/hses)
+[![License](https://img.shields.io/npm/l/ses.svg)](https://github.com/clouby/hses/blob/master/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
@@ -16,13 +16,13 @@ A simple CLI for check health status on external services.
 <!-- usage -->
 ```sh-session
 $ npm install -g hses
-$ ses COMMAND
+$ hses COMMAND
 running command...
-$ ses (-v|--version|version)
+$ hses (-v|--version|version)
 hses/0.0.1 linux-x64 node-v12.18.2
-$ ses --help [COMMAND]
+$ hses --help [COMMAND]
 USAGE
-  $ ses COMMAND
+  $ hses COMMAND
 ...
 ```
 <!-- usagestop -->
